@@ -6,7 +6,7 @@
             <h3 class="text-center text-dark">Create a Free Account</h3>
             <p class="text-center">
                 Already have an account?
-                <span class="text-primary"><a href="login"> Log In</a> </span>
+                <span class="text-primary"><a href="{{route('login')}}"> Log In</a> </span>
             </p>
             <form class="p-1">
                 <div class="form-group mb-3">

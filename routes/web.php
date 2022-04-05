@@ -14,18 +14,19 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', [HomeController::class, 'index']);
-Route::get('/index', [HomeController::class, 'index']);
-Route::get('/about-us', [HomeController::class, 'aboutUs']);
-Route::get('/all-jobs', [HomeController::class, 'allJobs']);
-Route::get('/contact-us', [HomeController::class, 'contactUs']);
-Route::get('/dashboard', [HomeController::class, 'dashboard']);
-Route::get('/job', [HomeController::class, 'job']);
-Route::get('/login', [HomeController::class, 'login']);
-Route::get('/partners', [HomeController::class, 'partners']);
-Route::get('/profile', [HomeController::class, 'profile']);
-Route::get('/qualification', [HomeController::class, 'qualification']);
-Route::get('/services', [HomeController::class, 'services']);
-Route::get('/signup', [HomeController::class, 'signup']);
-Route::get('/skills', [HomeController::class, 'skills']);
-Route::get('/experience', [HomeController::class, 'experience']);
+Route::get('/', [HomeController::class, 'index'])->name('index');
+Route::get('/index', [HomeController::class, 'index'])->name('index');
+Route::get('/about-us', [HomeController::class, 'aboutUs'])->name('aboutUs');
+Route::get('/all-jobs', [HomeController::class, 'allJobs'])->name('allJobs');
+Route::get('/contact-us', [HomeController::class, 'contactUs'])->name('contactUs');
+Route::get('/dashboard', [HomeController::class, 'dashboard'])->name('dashboard');
+Route::get('/job', [HomeController::class, 'job'])->name('job');
+Route::get('/login', [HomeController::class, 'login'])->name('login');
+Route::get('/partners', [HomeController::class, 'partners'])->name('partners');
+Route::get('/profile', [HomeController::class, 'profile'])->name('profile');
+Route::get('/qualification', [HomeController::class, 'qualification'])->name('qualification');
+Route::get('/services', [HomeController::class, 'services'])->name('services');
+Route::get('/signup', [HomeController::class, 'signup'])->name('signup');
+Route::get('/skills', [HomeController::class, 'skills'])->name('skills');
+Route::get('/experience', [HomeController::class, 'experience'])->name('experience');
+Route::get('/master', [HomeController::class, 'sidebar']);

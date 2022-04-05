@@ -34,7 +34,7 @@
     <!-- Copyright -->
     <div class="text-center" style="color: #2d2d2d">
         © 2022 Copyright:
-        <a style="color: #2d2d2d" href="index">e-job.com</a>
+        <a style="color: #2d2d2d" href="{{route('index')}}">e-job.com</a>
     </div>
     <!-- Copyright -->
 </footer>

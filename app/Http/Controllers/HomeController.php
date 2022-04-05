@@ -89,4 +89,3 @@ class HomeController extends Controller
     {
         return view('templates.skills');
     }
-}

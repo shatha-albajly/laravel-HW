@@ -5,6 +5,8 @@
         <h1 class="text-primary py-4 text-primary">
             WASH Technical Coordinator
         </h1>
+
+        @yield('content')
         <p class="text-black fw-bold">Job Description</p>
         <p class="text-black">
             Mercy Corps is a leading international non-governmental humanitarian

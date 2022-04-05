@@ -48,10 +48,11 @@
         <!-- cards -->
         <div class="card-deck jobs-card row justify-content-center">
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/UnitedNations.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/UnitedNations.png"
+                        alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">
                             WASH Technical Coordinator
                         </h5>
@@ -67,10 +68,10 @@
                 </div>
             </div>
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/MDM.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/MDM.png" alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">
                             Program Coordinator - eLearning
                         </h5>
@@ -87,10 +88,11 @@
             </div>
 
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/UnitedNations.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/UnitedNations.png"
+                        alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">Senior Sales Executive</h5>
                     </a>
 
@@ -104,10 +106,11 @@
                 </div>
             </div>
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/UnitedNations.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/UnitedNations.png"
+                        alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">
                             WASH Technical Coordinator
                         </h5>
@@ -123,10 +126,10 @@
                 </div>
             </div>
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/MDM.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/MDM.png" alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">
                             Program Coordinator - eLearning
                         </h5>
@@ -143,10 +146,11 @@
             </div>
 
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/UnitedNations.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/UnitedNations.png"
+                        alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">Senior Sales Executive</h5>
                     </a>
 
@@ -160,10 +164,11 @@
                 </div>
             </div>
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/UnitedNations.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/UnitedNations.png"
+                        alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">
                             WASH Technical Coordinator
                         </h5>
@@ -179,10 +184,10 @@
                 </div>
             </div>
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/MDM.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/MDM.png" alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">
                             Program Coordinator - eLearning
                         </h5>
@@ -199,10 +204,11 @@
             </div>
 
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/UnitedNations.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/UnitedNations.png"
+                        alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">Senior Sales Executive</h5>
                     </a>
 
@@ -216,10 +222,11 @@
                 </div>
             </div>
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/UnitedNations.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/UnitedNations.png"
+                        alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">
                             WASH Technical Coordinator
                         </h5>
@@ -235,10 +242,10 @@
                 </div>
             </div>
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/MDM.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/MDM.png" alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">
                             Program Coordinator - eLearning
                         </h5>
@@ -255,10 +262,11 @@
             </div>
 
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/UnitedNations.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/UnitedNations.png"
+                        alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">Senior Sales Executive</h5>
                     </a>
 
@@ -272,10 +280,11 @@
                 </div>
             </div>
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/UnitedNations.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/UnitedNations.png"
+                        alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">
                             WASH Technical Coordinator
                         </h5>
@@ -291,10 +300,10 @@
                 </div>
             </div>
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/MDM.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/MDM.png" alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">
                             Program Coordinator - eLearning
                         </h5>
@@ -311,10 +320,11 @@
             </div>
 
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/UnitedNations.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/UnitedNations.png"
+                        alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">Senior Sales Executive</h5>
                     </a>
 
@@ -328,10 +338,11 @@
                 </div>
             </div>
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/UnitedNations.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/UnitedNations.png"
+                        alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">
                             WASH Technical Coordinator
                         </h5>
@@ -347,10 +358,10 @@
                 </div>
             </div>
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/MDM.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/MDM.png" alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">
                             Program Coordinator - eLearning
                         </h5>
@@ -367,10 +378,11 @@
             </div>
 
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/UnitedNations.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/UnitedNations.png"
+                        alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">Senior Sales Executive</h5>
                     </a>
 
@@ -384,10 +396,11 @@
                 </div>
             </div>
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/UnitedNations.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/UnitedNations.png"
+                        alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">
                             WASH Technical Coordinator
                         </h5>
@@ -403,10 +416,10 @@
                 </div>
             </div>
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/MDM.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/MDM.png" alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">
                             Program Coordinator - eLearning
                         </h5>
@@ -423,10 +436,11 @@
             </div>
 
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/UnitedNations.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/UnitedNations.png"
+                        alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">Senior Sales Executive</h5>
                     </a>
 
@@ -440,10 +454,11 @@
                 </div>
             </div>
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/UnitedNations.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/UnitedNations.png"
+                        alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">
                             WASH Technical Coordinator
                         </h5>
@@ -459,10 +474,10 @@
                 </div>
             </div>
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/MDM.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/MDM.png" alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">
                             Program Coordinator - eLearning
                         </h5>
@@ -479,10 +494,11 @@
             </div>
 
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/UnitedNations.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/UnitedNations.png"
+                        alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">Senior Sales Executive</h5>
                     </a>
 
@@ -496,10 +512,11 @@
                 </div>
             </div>
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/UnitedNations.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/UnitedNations.png"
+                        alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">
                             WASH Technical Coordinator
                         </h5>
@@ -515,10 +532,10 @@
                 </div>
             </div>
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/MDM.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/MDM.png" alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">
                             Program Coordinator - eLearning
                         </h5>
@@ -535,10 +552,11 @@
             </div>
 
             <div class="card col-lg-3 col-md-5 m-2 p-2">
-                <a href="job"><img class="card-img-top" src="../images/UnitedNations.png" alt="Card image cap" /></a>
+                <a href="{{route('job')}}"><img class="card-img-top" src="../images/UnitedNations.png"
+                        alt="Card image cap" /></a>
 
                 <div class="card-body">
-                    <a href="job" class="text-decoration-none">
+                    <a href="{{route('job')}}" class="text-decoration-none">
                         <h5 class="card-title text-center">Senior Sales Executive</h5>
                     </a>
 

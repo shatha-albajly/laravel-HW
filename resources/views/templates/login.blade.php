@@ -6,7 +6,7 @@
             <h3 class="text-center text-dark">log in to your account</h3>
             <p class="text-center">
                 Don't have an account yet?
-                <span class="text-primary"><a href="signup">Register here</a>
+                <span class="text-primary"><a ref="{{route('signup')}}">Register here</a>
                 </span>
             </p>
             <form class="p-1">
