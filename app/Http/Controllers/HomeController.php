@@ -89,3 +89,10 @@ class HomeController extends Controller
     {
         return view('templates.skills');
     }
+
+    // sidebar controller
+    public function sidebar()
+    {
+        return view('layout.master');
+    }
+}
